@@ -1,0 +1,16 @@
+material Tiles
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.75 0.75 0.75
+
+			texture_unit
+			{
+				texture brown-tile-texture.jpg
+				scale 0.25 0.25
+			}
+		}
+	}
+}

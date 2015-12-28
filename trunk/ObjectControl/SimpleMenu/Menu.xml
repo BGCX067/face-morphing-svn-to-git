@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+
+<menu>
+	<tab>
+		<name>File</name>
+		<sub>
+			<name>Open</name>
+			<func>Open</func>
+		</sub>
+		<sub>
+			<name>Save</name>
+			<func>Save</func>
+		</sub>
+		<sub>
+			<name>Exit</name>
+			<func>Exit</func>
+		</sub>
+	</tab>
+	<tab>
+		<name>Edit</name>
+		<sub>
+			<name>Undo</name>
+			<func>Undo</func>
+		</sub>
+		<sub>
+			<name>Redo</name>
+			<func>Redo</func>
+		</sub>
+		<sub>
+			<name>Morphing (half)</name>
+			<func>MorphingHalf</func>
+		</sub>
+		<sub>
+			<name>Morphing (num of pics)</name>
+			<func>MorphingPics</func>
+		</sub>
+		<sub>
+			<name>Morphing (n% of left face)</name>
+			<func>MorphingPercent</func>
+		</sub>
+		<sub>
+			<name>Reload (Enter)</name>
+			<func>Reload</func>
+		</sub>
+		<sub>
+			<name>HideMenu (Space)</name>
+			<func>Hide</func>
+		</sub>
+	</tab>
+</menu>
